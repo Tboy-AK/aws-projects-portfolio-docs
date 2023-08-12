@@ -7,11 +7,11 @@ The aim of this project was to manage the RDS cluster and optimize project manag
 - Amazon RDS
 - Amazon EC2
 
-# Other Resources
+## Other Resources
 
 - PG Admin 4
 
-# Challenges
+## Challenges
 
 - Overhead manual creation of user in import RDS instance
 - Overhead manual creation of new database in import RDS instance
