@@ -16,6 +16,8 @@ This project was aimed at migrating static web applications from ECS and EKS to 
 - Security: Security headers and WAF
 - Caching: Regional and Global.
 - Speed: Could promote faster responses.
+- Deployment overhead: Compared to ECS and K8s, the number of resources and the amount of configuration required is less.
+- Resource management: Little efforts are required to maintain the deployment
 
 ## Challenges
 - Dynamic values per environment: E.g. API URLs between development, staging and production.
