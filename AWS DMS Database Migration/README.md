@@ -8,5 +8,10 @@ This project was aimed at using AWS Database Migration Service to migrate databa
 - AWS DMS
 
 ## Other Resources
+
 - MySQL Workbench
 - PG Admin 4
+
+## Challenges
+
+- Manual overhead configuration of "id" auto-increment after migration
